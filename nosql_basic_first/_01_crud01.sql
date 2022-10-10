@@ -1,0 +1,1 @@
+db.anime_info.insertOne("name01":"shadow house");
